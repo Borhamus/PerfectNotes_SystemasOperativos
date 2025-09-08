@@ -11,14 +11,12 @@
             "id": "c74149c8575f5d20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01.Clases/Borhamus/Clase 9.md",
-                "mode": "source",
-                "source": false
+                "file": "00.Media/1.png"
               },
-              "icon": "lucide-file",
-              "title": "Clase 9"
+              "icon": "lucide-image",
+              "title": "1"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "128446fa44c8799e",
@@ -170,14 +167,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c74149c8575f5d20",
+  "active": "99c330cc58852d6e",
   "lastOpenFiles": [
-    "5.jpeg",
-    "4.jpeg",
-    "3.jpeg",
-    "2.png",
-    "1.png",
     "01.Clases/Borhamus/Clase 9.md",
+    "00.Media/5.jpeg",
+    "00.Media/4.jpeg",
+    "00.Media/3.jpeg",
+    "00.Media/2.png",
+    "00.Media/1.png",
     "00.Media/Pasted image 20250827184839.png",
     "00.Media/Niveles de Planificacion.jpeg",
     "00.Media/Modelo de 5 estados.png",
