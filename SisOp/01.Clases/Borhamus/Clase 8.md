@@ -349,3 +349,7 @@ En la parte de datos, puede resultar en graves problemas de eficiencia o no.
 
 como, el compilador lo dispone en la memoria principal, te puede traer problemas de eficiencia o no.
 
+Cl
+
+
+Siguiente Clase: [[Clase 9]]

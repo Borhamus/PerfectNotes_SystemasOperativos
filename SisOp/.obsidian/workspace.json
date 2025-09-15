@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "00.Media/1.png"
+                "file": "00.Media/1.jpeg"
               },
               "icon": "lucide-image",
               "title": "1"
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "128446fa44c8799e",
@@ -167,20 +168,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "99c330cc58852d6e",
+  "active": "c74149c8575f5d20",
   "lastOpenFiles": [
+    "01.Clases/Borhamus/Clase 11.md",
+    "01.Clases/Borhamus/Clase 10.md",
     "01.Clases/Borhamus/Clase 9.md",
-    "00.Media/5.jpeg",
-    "00.Media/4.jpeg",
-    "00.Media/3.jpeg",
-    "00.Media/2.png",
-    "00.Media/1.png",
-    "00.Media/Pasted image 20250827184839.png",
-    "00.Media/Niveles de Planificacion.jpeg",
-    "00.Media/Modelo de 5 estados.png",
+    "00.Media/Pasted image 20250915173853.png",
+    "00.Media/Pasted image 20250915172751.png",
+    "00.Media/Pasted image 20250915171804.png",
+    "00.Media/Pasted image 20250915170019.png",
+    "00.Media/Pasted image 20250915165612.png",
+    "00.Media/Pasted image 20250915164323.png",
+    "00.Media/Pasted image 20250915163653.png",
+    "00.Media/Pasted image 20250915162252.png",
+    "00.Media/1.jpeg",
+    "01.Clases/Borhamus/Clase 7.md",
     "01.Clases/Borhamus/Clase 8.md",
+    "01.Clases/Borhamus/Clase 6.md",
+    "00.Media/1.png",
     "01.Clases/Borhamus/Clase 1.md",
-    "00.Media/diagram.svg",
     "01.Clases/Borhamus"
   ]
 }

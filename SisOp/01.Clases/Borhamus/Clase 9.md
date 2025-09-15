@@ -1,5 +1,6 @@
 08/09/2025 - Teoría Sys Op - Horacio Pendenti
 
+Clase Anterior: [[Clase 8]]
 ### Particionado de Memorias
 
 **Particiones Fijas**:
@@ -159,3 +160,5 @@ En promedio, tenemos media pagina por programa. Es la Fragmentación interna.
 
 **VER:**
 **Que pasa con los últimos n bits, de una dirección de memoria.**
+
+Siguiente Clase: [[Clase 10]]
