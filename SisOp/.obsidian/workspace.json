@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "420eef68b8ce531f",
+        "id": "e6a360b50189c1de",
         "type": "tabs",
         "children": [
           {
-            "id": "c74149c8575f5d20",
+            "id": "f83f765ca22aa2e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00.Media/1.jpeg"
+                "file": "01.Clases/Borhamus/Clase 13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1"
+              "icon": "lucide-file",
+              "title": "Clase 13"
             }
           }
         ]
@@ -168,24 +170,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "c74149c8575f5d20",
+  "active": "f83f765ca22aa2e0",
   "lastOpenFiles": [
+    "Pasted image 20250929165325.png",
+    "Pasted image 20250929164936.png",
+    "Pasted image 20250929163456.png",
+    "Pasted image 20250929161849.png",
+    "00.Media/Pasted image 20250924163013.png",
+    "01.Clases/Borhamus/Clase 13.md",
+    "01.Clases/Borhamus/Clase 12.md",
     "01.Clases/Borhamus/Clase 11.md",
+    "00.Media/Pasted image 20250924175544.png",
+    "00.Media/Pasted image 20250924172127.png",
+    "00.Media/Pasted image 20250924170309.png",
+    "00.Media/Pasted image 20250924165912.png",
+    "00.Media/Pasted image 20250924164623.png",
+    "00.Media/Pasted image 20250924164128.png",
     "01.Clases/Borhamus/Clase 10.md",
     "01.Clases/Borhamus/Clase 9.md",
-    "00.Media/Pasted image 20250915173853.png",
-    "00.Media/Pasted image 20250915172751.png",
-    "00.Media/Pasted image 20250915171804.png",
-    "00.Media/Pasted image 20250915170019.png",
-    "00.Media/Pasted image 20250915165612.png",
-    "00.Media/Pasted image 20250915164323.png",
-    "00.Media/Pasted image 20250915163653.png",
-    "00.Media/Pasted image 20250915162252.png",
-    "00.Media/1.jpeg",
     "01.Clases/Borhamus/Clase 7.md",
     "01.Clases/Borhamus/Clase 8.md",
     "01.Clases/Borhamus/Clase 6.md",
-    "00.Media/1.png",
     "01.Clases/Borhamus/Clase 1.md",
     "01.Clases/Borhamus"
   ]
